@@ -56,11 +56,12 @@ Netflix-Analysis/
 
 ---
 
-## 📄 PDF Report
+## 📘 Jupyter Notebook
 
-A detailed project summary with visualizations and explanations is available here:
+The complete analysis with code, visualizations, and insights is available here:
 
-📥 [Netflix-Analysis.pdf](./Netflix-Analysis.pdf)
+📥 [Netflix Movie Insights.ipynb](./Netflix%20Movie%20Insights.ipynb)
+
 
 ---
 
